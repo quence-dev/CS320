@@ -1,0 +1,50 @@
+Fun kfact n
+    Fun kfact_aux k
+        If 
+            Push 0
+            Push n
+            Lte
+        Then
+            Push k 
+            Push 1
+            Call
+        Else
+            Fun continuation res 
+                Push k
+                Push n
+                Push res
+                Mul
+                Call
+            EndFun
+            
+            Push kfact
+            Push 1
+            Push n
+            Sub
+            Call
+            Push continuation
+            Call
+        EndIf
+    EndFun
+    Push kfact_aux
+    Return
+EndFun
+Pop
+
+Fun fact n
+    Fun id x
+        Push x
+        Return
+    EndFun
+
+    Push kfact
+    Push n
+    Call
+    Push id
+    Call
+EndFun
+Pop
+
+Push fact
+Push 10
+Call
