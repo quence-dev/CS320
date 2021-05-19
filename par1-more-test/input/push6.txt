@@ -1,3 +1,0 @@
-Push 5
-Push <true>
-Push "<false>"

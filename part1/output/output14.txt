@@ -1,5 +1,0 @@
-Hi there!
-22
-name_constant
-<unit>
-<false>

@@ -1,5 +1,0 @@
-Push 5
-Push "long string"
-Push <error>
-Pop
-Pop

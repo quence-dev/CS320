@@ -1,4 +1,0 @@
-<error>
-10
-Push
-Quit

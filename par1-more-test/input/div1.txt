@@ -1,5 +1,0 @@
-Push 5
-Push 8
-Push 0
-Div
-Div

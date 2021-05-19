@@ -1,4 +1,0 @@
-Push 10
-Push 100
-Div
-Neg

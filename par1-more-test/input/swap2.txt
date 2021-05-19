@@ -1,5 +1,0 @@
-Push 5
-Swap
-Swap
-Swap
-Swap

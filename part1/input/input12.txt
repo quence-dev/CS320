@@ -1,9 +1,0 @@
-Push a_name
-Push 34
-Push 42
-Sub
-Neg
-Push "12"
-Div
-Swap
-Quit

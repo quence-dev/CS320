@@ -1,3 +1,0 @@
-Push <error>
-Push 5
-Div

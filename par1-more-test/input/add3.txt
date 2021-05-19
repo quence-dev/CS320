@@ -1,6 +1,0 @@
-Push <error>
-Push name1
-Push 10
-Push -10
-Add
-Add

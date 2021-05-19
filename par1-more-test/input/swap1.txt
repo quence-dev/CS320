@@ -1,7 +1,0 @@
-Push 5
-Push 8
-Push <false>
-Push name
-Swap
-Neg
-Swap

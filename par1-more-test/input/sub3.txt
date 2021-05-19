@@ -1,5 +1,0 @@
-Push 10
-Push -33
-Sub
-Push 1
-Add
